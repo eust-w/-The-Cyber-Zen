@@ -1,4 +1,4 @@
-[中文](www.longtao.fun/TheCyberZen/README_zh.md)
+[中文](https://github.com/eust-w/TheCyberZen/blob/main/README_zh.md)
 # The-Cyber-Zen
 This is the religion of coders
 
